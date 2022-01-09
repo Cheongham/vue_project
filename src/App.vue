@@ -1,3 +1,5 @@
+# project 만들기
+#     npm create project명(폴더명)
 # 실행방법: npm run serve
 #    url 복사후 브라우저에 붙여넣기 하여 띄움
 # 강의:https://www.youtube.com/watch?v=-tVaahsXpwk(코딩애플)
